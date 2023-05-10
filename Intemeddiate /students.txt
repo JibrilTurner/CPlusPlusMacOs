@@ -1,0 +1,62 @@
+Name: John
+Assignment 1:
+Grade: 90
+Date: 1/1/2020
+ID: 16807
+
+Assignment 2:
+Grade: 70
+Date: 1/3/2020
+ID: 75249
+
+Assignment 3:
+Grade: 85
+Date: 1/5/2020
+ID: 50073
+
+Assignment 4:
+Grade: 100
+Date: 1/7/2020
+ID: 43658
+
+Assignment 5:
+Grade: 95
+Date: 1/9/2020
+ID: 8930
+
+Assignment 6:
+Grade: 80
+Date: 1/11/2020
+ID: 11272
+
+Assignment 7:
+Grade: 75
+Date: 1/13/2020
+ID: 27544
+
+Assignment 8:
+Grade: 65
+Date: 1/15/2020
+ID: 50878
+
+Assignment 9:
+Grade: 70
+Date: 1/17/2020
+ID: 77923
+
+Assignment 10:
+Grade: 75
+Date: 1/19/2020
+ID: 37709
+
+Assignment 11:
+Grade: 80
+Date: 1/21/2020
+ID: 64440
+
+Name: Alice
+Assignment 1:
+Grade: 85
+Date: 2/1/2020
+ID: 38165
+

@@ -1,0 +1,6 @@
+g++ -c myFile.cpp
+g++ -c main.cpp
+
+g++ myFile.o main.o -o myProgram
+
+./myProgram

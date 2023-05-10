@@ -1,0 +1,40 @@
+tips to avoid errors for header files
+1.Save All
+2.Re-Run Command
+3.Check if file names are correct 
+4.Reload VsCode
+5.Make sure your in the right terminal 
+6.Don't get scared by the error messages. Run down the check list of possible solution, if non of the offered 
+fixes work. Then get scared. 
+
+g++ -c myFile.cpp
+g++ -c main.cpp
+
+g++ myFile.o main.o -o myProgram
+
+./myProgram
+
+
+g++ -c myFile.cpp
+g++ -c fLoopTwo.cpp
+g++ -c tmpd.cpp
+
+g++ main.cpp tmpd.o fLoopTwo.o -o myProgram
+
+
+./myProgram
+
+g++ -c fLoopTwo.cpp
+g++ -c tmpd.cpp
+g++ -c menu.cpp
+g++ -c subMenuGp.cpp
+g++ -c fLoopOne.cpp
+g++ -c userInputOne.cpp
+g++ -c userInputTwo.cpp
+g++ -c TryCatch.cpp
+g++ -c line.cpp
+
+g++ main.cpp tmpd.o subMenuGp.o menu.o fLoopTwo.o fLoopOne.o userInputOne.o userInputTwo.o TryCatch.o line.o -o myProgram
+
+./myProgram
+2

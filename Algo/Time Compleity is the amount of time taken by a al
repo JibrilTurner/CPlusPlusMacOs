@@ -1,0 +1,82 @@
+Time Compleity is the amount of time taken by a alogrithm  to run. As a funtion of the size of the input.
+
+imaigne a list of numbers 
+	arr = [1, 2, 3, 4, 5 ... 95, 96, 97, 98, 99, 100] 
+	O(n^2): would be if the first value found is what we're looking for. (you seach only the target)
+	O(n): Would be checking each value for what your looking for. (only one elemnt has the target)
+	O(log n): Would be divideing the arr into two groups, then asking wether or not its on the left or tright side
+	reinse repeite until you find what your looking for (all the elements know which side the raget is on)
+
+	For example: Write code in C/C++ or any other language to find the maximum between N numbers, where N
+	varies from 10, 100, 1000, and 10000.,use the below commands: 
+	To execute the program: time ./program
+
+	The result: 
+	For N = 10: you'll get around 0.5 ms time.
+	For N = 10,000: you'll get around 0.2 ms time. 
+
+
+
+
+	O(1) // 
+	O(logn)//
+	O(n) //
+	O(nlogn)
+	O(n^2)
+	O(2^n)
+	O(n!)
+
+
+
+	//The Time Complexity In the code below is a constatnt: O(1) in other words everytime a constant
+ 	//amount of timeis requried to run the code. No matter What Os your using or configurations you have 
+	//Auxiliary Space: O(1)
+	//Time Complexity: O(1)
+
+	#include <iostream>
+	using namespace std;
+ 
+	void O_of_1()
+	{		
+	     cout << "Hello World";
+	}
+
+
+	//The time complixty in this example is linear: O(n)in other words the amount of times you have to run it 
+	//will deterimine how fast it will be. 
+	//Auxiliary Space: O(1)
+	//Time Complexity: O(n)
+
+	#include <iostream>
+	using namespace std;
+ 
+	void O_of_n()
+	{
+ 
+  	int i, n = 8;
+    	for (i = 1; i <= n; i++) {
+        	cout << "Hello World !!!\n";
+    	}
+   
+
+
+	
+	//The Time Complicity in the code below is: O(Log2(n)) Which is pretty much saying the time increases linearly 
+	//While the value of 'n' increases exponeitally. So if counting 10 elements takes 1 second, Then computing 
+	100 eleemnts takes 2 seonds, Then 100 elements must then take seconds.
+	//Time Complexity: O(log2(n))
+	//Auxiliary Space: O(1)
+
+	#include <iostream>
+	using namespace std;
+ 
+	void O_of_log2_n ()
+	{
+
+   	 int i, n = 8;
+  	  for (i = 1; i <= n; i=i*2) {
+  	      cout << "Hello World !!!\n";
+  	}
+  	  return 0;
+     	}
+ 
