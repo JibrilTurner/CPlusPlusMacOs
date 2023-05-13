@@ -1,0 +1,56 @@
+Question: Give a Desription kidneys.
+QuestionID: 1
+Answer: Bean Shaped, Symetrical Orgran located Above All Other Urinary Orgrains
+Wrong Answer 1: Long Tube that runns from the Ureter to the Bladder, medial
+Wrong Answer 2: A chewing muscle dorsal to the masseater located on the side of the skull
+Wrong Answer 3: The most prominent muscle on the lateral surface of the face, large and rounded. The primary chewing muscle. Extends from the zygomatic bone to the lateral surface of the mandible.
+
+Question: Give a Description of the Renal Artery and Renal Vein?
+QuestionID: 2
+Answer: Main Artery and Vein thats inbetween both kidenys the kidney)
+Wrong Answer 1: a Tube that connects the bladder to the genitals for the removeal of urine from the body
+Wrong Answer 2: the organ that collects urine excreted by the kidneys before disposal b urination. A hollow muscular, and elastic organ.
+Wrong Answer 3: pull the sternohyoid muscles to the side and you will see a tube with circular rings.
+
+Question: Give a description of the urethra
+QuestionID: 3
+Answer: a tube that connects the urinary bladder to the genitals for the removal of urine from the body. In males travels from urinary bladder through penis
+Wrong Answer 1: tubes that propel urine from the kidneys to the urinary bladder
+Wrong Answer 2: Two bands of muscle tissue that run along the mid-ventral line in a posterior
+Wrong Answer 3: he most prominent muscle on the lateral surface of the face, large and rounded. The primary chewing muscle. Extends from the zygomatic bone to the lateral surface of the mandible.
+
+Question: Give a description of the bladder?
+QuestionID: 4
+Answer: the organ the ureter connects to, As well as looking flabby and deflated   
+Wrong Answer 1: bean-shaped organs essential to the urinary system. They serve the body as a natur filter of the blood
+Wrong Answer 2: a tube that connects the urinary bladder to the genitals for the removal of urine from the body.
+Wrong Answer 3: The male gonads, symetical and a round and are found far down on the animals body
+
+Question: Give a description of the urethra?
+QuestionID: 5
+Answer: the tube that connects the bladder to the genitals for removal of urine    
+Wrong Answer 1: tubes that propel urine from the kidneys to the urinary bladder
+Wrong Answer 2: pull the sternohyoid muscles to the side and you will see a tube with circular rings.
+Wrong Answer 3: The male gonads, symetical and a round and are found far down on the animals body
+
+Question: Give a description of the testes?
+QuestionID: 6
+Answer: The are a symetical organ located below the penis 
+Wrong Answer 1: a cord like structure formed in males, this tube runs to each testicle
+Wrong Answer 2: a tube that is used for sexual reporoduction and waste disposol
+Wrong Answer 3: a walnut sized gland located bwteen the bladder and the penis. 
+
+Question: Give a description of the spermatic cord
+QuestionID: 7
+Answer: a cord like structure formed in males, this tube runs to each testicle
+Wrong Answer 1: a tube that connects the urinary bladder to the genitals for the removal of urine from the body.
+Wrong Answer 2: tubes that propel urine from the kidneys to the urinary bladder
+Wrong Answer 3: The male gonads, symetical and a round and are found far down on the animals body
+
+Question: describe the location of the prostate gland 
+QuestionID: 8
+Answer: a walnut sized gland located bwteen the bladder and the penis.
+Wrong Answer 1: The male gonads, symetical and a round and are found far down on the animals body
+Wrong Answer 2: the organ that collects urine excreted by the kidneys before disposal b urination. A hollow muscular, and elastic organ.
+Wrong Answer 3: he most prominent muscle on the lateral surface of the face, large and rounded. The primary chewing muscle. Extends from the zygomatic bone to the lateral surface of the mandible.
+
